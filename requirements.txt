@@ -1,0 +1,4 @@
+pandas
+numpy
+keras-tuner
+kerastuner-tensorboard-logger
