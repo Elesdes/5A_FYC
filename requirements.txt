@@ -2,3 +2,5 @@ pandas
 numpy
 keras-tuner
 kerastuner-tensorboard-logger
+notebook
+scikit-learn

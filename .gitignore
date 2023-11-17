@@ -1,0 +1,6 @@
+__pycache__
+.idea
+data
+.sourcery.yaml
+.vscode
+.pytest_cache
