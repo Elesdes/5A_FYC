@@ -50,6 +50,6 @@ Combine the trained encoder from the VAE with the generator from the GAN to crea
 - Evaluate the model on the test dataset.
 - Experiment with different hyperparameters and architectures to improve the performance of the model.
 
-Additional Tips :
+### Additional Tips :
 - Experiment with different activation functions, layer sizes, and learning rates in addition to experimenting with number of neurons per layer.
 - To optimize the hyperparameters in a more autonomous way, using for example ***Bayesian Optimization*** algorithm, you can use [KerasTuner](https://keras.io/keras_tuner/).
